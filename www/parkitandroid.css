@@ -1,0 +1,28 @@
+body {
+    font-family: Roboto,sans-serif;
+}
+#navbar {
+    background-color:#2196f3;
+    color:white;
+    box-shadow:darkgray 3px 3px 5px;
+}
+
+#park,#retrieve {
+    border: 1px greenyellow solid;
+}
+
+button {
+    background-color: #2196f3;
+    color:white;
+}
+
+#instructions,#map,#directions {
+    box-shadow:darkgray 3px 3px 5px;
+    border:2px gold solid;
+}
+
+#gotIt {
+    border: 1px black solid;
+}
+
+
